@@ -9,7 +9,7 @@ Une erreur ? Venez sur discord : https://discord.gg/dSxvNKehwy
 Étapes d'Installation :
 
 1. Téléchargement des Fichiers :
-   - Cliquez sur le lien suivant pour télécharger les fichiers de traduction : https://www.mediafire.com/folder/6ijuroc0amen1/Stationeers+FR.
+   - Cliquez sur Download ZIP dans le menu code.
    - Extrayez le contenu du fichier ZIP dans un emplacement de votre choix sur votre ordinateur.
 
 2. Emplacement des Fichiers dans le Jeu :
